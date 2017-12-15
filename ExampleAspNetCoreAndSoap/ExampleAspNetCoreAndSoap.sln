@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreMvcSoapController", "AspNetCoreMvcSoapController\AspNetCoreMvcSoapController.csproj", "{8C3FD75F-928C-485D-9355-D3933E82523A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3FD75F-928C-485D-9355-D3933E82523A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3FD75F-928C-485D-9355-D3933E82523A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3FD75F-928C-485D-9355-D3933E82523A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3FD75F-928C-485D-9355-D3933E82523A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3441978E-3888-46F7-AF4D-CA7B93EB7A25}
+	EndGlobalSection
+EndGlobal
